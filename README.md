@@ -1,17 +1,13 @@
-### Hi there! I'm Fabian
+## 👨‍💻 Sobre mí
+Soy Fabián, estudiante de Análisis y Desarrollo de Software. Tengo experiencia en desarrollo web, bases de datos y actualmente curso un bootcamp en ciberseguridad. Me apasiona la tecnología, la innovación y siempre busco aprender más para crecer profesionalmente.  
 
+- 🎓 Actualmente estudiante de **Análisis y Desarrollo de Software** en el **SENA**.  
+- 🌱 Aprendiendo y perfeccionando habilidades en **JavaScript**, **bases de datos**, **ciberseguridad** y **inteligencia Artificial**.  
+- 🔭 Trabajando en proyectos personales y educativos relacionados con desarrollo web, automatización y backend.  
+- 📫 Escríbeme a: **fbenjumeau@gmail.com**  
+- ⚽ En mi tiempo libre disfruto hacer deporte, leer y escuchar música.
 
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I am currently a student.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I am currently studying Software Development and Analysis at SENA.\
-🌱 &nbsp;I am on my way to learning more about programming logic, JavaScript and other languages.\
-✍️ &nbsp;In my free time, I dedicate myself to playing sports, reading and listening to music.\
-✉️ &nbsp;You can shoot me an email at fbenjumeau@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
-
+---
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,58 +24,67 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+## 🛠 Tech Stack y Herramienta
+
+### Lenguajes de programación  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff)
+
+### Backend y servidores  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### Bases de Datos  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+### Sistemas y Ciberseguridad  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Control de versiones y colaboración  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Herramientas de Desarrollo y Nube  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=fff)  
+![Microsoft Office](https://img.shields.io/badge/-Office-D83B01?logo=microsoft-office&logoColor=fff)
+![IntelliNet Idea](https://img.shields.io/badge/-IntelliNet%20Idea-00AEEF?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxNmMtMi43IDAtNSA0LTIgNSAxLTIgMi0zIDQtM3ptNi0xMGMtMSAyLTYgNS02IDIgMi0xIDIgMyAzIDN6Ii8+PC9zdmc+)  
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### Gestión de Proyectos y Productividad  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
+## 📊 GitHub Analytics
 
-### ⚙️ &nbsp;GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=14Fabyzz&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14Fabyzz&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=14Fabyzz&theme=radical&hide_border=false)
+
+
+---
+
+## 🌍 Idiomas
+
+- Inglés: Nivel B1 (Intermedio)
+
+- 
+### 🐍 Actividad Reciente
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/14Fabyzz/14Fabyzz/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="fabian.wordpress.com"><img src="https://img.shields.io/badge/-Fxbian.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-
-</a>
-<a href="https://www.instagram.com/fxbian14_/"><img src="https://img.shields.io/badge/-Fxbian14-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
