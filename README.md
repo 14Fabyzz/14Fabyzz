@@ -112,6 +112,6 @@ Soy Fabián, estudiante de Análisis y Desarrollo de Software. Tengo experiencia
 ## 🌍 Idiomas
 
 
-
-- Inglés: Nivel B1 (Intermedio)
+- Español
+- Inglés
 
